@@ -1,8 +1,8 @@
 # paddock-legal
 
-Public static site hosting Paddock's legal documents and account information,
+Public static site hosting PrancyCar's legal documents and account information,
 served via GitHub Pages. This is the canonical public source for the URLs
-referenced in the Paddock mobile app (`LegalLinks`) and the Google Play listing.
+referenced in the PrancyCar mobile app (`LegalLinks`) and the Google Play listing.
 
 Pages:
 
